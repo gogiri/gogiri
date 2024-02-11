@@ -1,6 +1,10 @@
 👋 Hi, I’m Hangil Choi
 
+
+
 🌱 Studying Data Science & Analysis  
+
+
 
 🔥 Skils
 
