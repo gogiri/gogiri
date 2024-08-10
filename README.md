@@ -17,7 +17,7 @@
 | 2023.10 ~ 2023.11 | 웹서비스 구축 | 추천 웹서비스 구축 | https://github.com/gogiri/web_server |
 | 2023.11 ~ 2023.12 | 기업부실예측 프로젝트 | 설명 가능한 인공지능(XAI) 기반 외감기업 부실예측모형에 대한 연구 | https://github.com/gogiri/CheckMate |
 | 2024.05 ~ 2024.07 | Google ML 부트캠프 |  ||
-| 2024.07 ~ 2024.08 | 부량고객예측 | Kaggle : LendingClub 데이터 활용 | https://github.com/gogiri/LendingClub |
+| 2024.07 ~ 2024.08 | 불량고객예측 | Kaggle : LendingClub 데이터 활용 | https://github.com/gogiri/LendingClub |
 
 
 <!---
