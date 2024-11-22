@@ -14,7 +14,6 @@
 |:---:|:---:|:---:|:---:|
 | 2023.09 ~ 2023.10 | NH 투자증권 빅데이터 경진대회 | 해외 주식 데이터를 이용한 국내/해외 종목 관계 분석 | https://github.com/gogiri/AvocadoProject |
 | 2023.10 ~ 2023.11 | 주가예측 프로젝트 | 분데이터를 이용한 오전 KOSPI 주가 예측 및 투자전략검증 | https://github.com/gogiri/Viking_Project |
-| 2023.10 ~ 2023.11 | 웹서비스 구축 | 추천 웹서비스 구축 | https://github.com/gogiri/web_server |
 | 2023.11 ~ 2023.12 | 기업부실예측 프로젝트 | 설명 가능한 인공지능(XAI) 기반 외감기업 부실예측모형에 대한 연구 | https://github.com/gogiri/CheckMate |
 | 2024.05 ~ 2024.07 | Google ML 부트캠프 |  ||
 | 2024.07 ~ 2024.08 | 불량고객예측 모델링 | Kaggle : LendingClub 데이터 활용 | https://github.com/gogiri/LendingClub |
