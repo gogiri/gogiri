@@ -18,7 +18,7 @@
 | 2024.05 ~ 2024.07 | Google ML 부트캠프 |  ||
 | 2024.07 ~ 2024.08 | 불량고객예측 모델링 | Kaggle : LendingClub 데이터 활용 | https://github.com/gogiri/LendingClub |
 | 2024.10.01 ~ 2024.10.15 | 물가 예측 AI | 데이터 · AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 | https://github.com/gogiri/FarmPricePrediction |
-| 2024.11.12 ~ 2024.12.09 | 이미지 색상화 및 손실 부분 복원 AI | 이미지 색상화 및 손실 부분 복원 AI 경진대회 |  |  |
+
 
 <!---
 gogiri/gogiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
